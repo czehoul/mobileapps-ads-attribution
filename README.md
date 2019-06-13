@@ -11,7 +11,7 @@ The Challenges:
 - Data is in raw log format; creative feature engineering is required to generate useful features 
 
 Development Tasks Performed / Achievements Highlights: 
-- Followed data science/machine learning model development workflow – perform exploratory data analysis, feature engineering, -model development and training, hyperparameter tuning, validation and evaluation 
+- Followed data science/machine learning model development workflow – perform exploratory data analysis, feature engineering, model development and training, hyperparameter tuning, validation and evaluation 
 - Generated new features (various moving cumulative sums group by keys) with BigQuery  
 - Categorical features encoding with Cat2Vec – an idea inspired by Word2Vec encoding in Natural Language Processing 
 - Assembled all pre-processing and classification steps in Scikit-Learn Pipeline 
