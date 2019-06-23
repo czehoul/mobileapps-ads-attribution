@@ -19,7 +19,7 @@ Development Tasks Performed / Achievements Highlights:
 - Implemented XGBoost model in Spark ML using Scala for production scale distributed training and hyperparameter tuning
 - Developed Rest API using Flask for serving
 
-Main Files/Folders:
+Main Files/Folders Description:
 - talkingdata-eda-and-feature-engineering.ipynb - EDA and feature engineering
 - talkingdata-model-development.ipynb - model development and local training / evaluation
 - feature-engineering.sql - implemented features generation using Big Query
