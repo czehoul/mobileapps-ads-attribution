@@ -16,7 +16,12 @@ Development Tasks Performed / Achievements Highlights:
 - Categorical features encoding with Cat2Vec – an idea inspired by Word2Vec encoding in Natural Language Processing 
 - Assembled all pre-processing and classification steps in Scikit-Learn Pipeline 
 - Hyperparameter tuning with automated Bayesian approach using Hyperopt package 
+- Implemented XGBoost model in Spark ML using Scala for production scale distributed training and hyperparameter tuning
+- Developed Rest API using Flask for serving
 
-To Be Done:
-- Distribute training + hyperparameter tuning in Spark cluster
-- API for Serving
+Main Files/Folders:
+- talkingdata-eda-and-feature-engineering.ipynb - EDA and feature engineering
+- talkingdata-model-development.ipynb - model development and local training / evaluation
+- feature-engineering.sql - implemented features generation using Big Query
+- SparkML - Model implementation in Spark ML codes using Scala for distributed training and hyperparameter tuning
+- Serving - Rest API implemented in Flask to serve the model prediction 
